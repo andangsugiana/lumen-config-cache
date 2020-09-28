@@ -1,7 +1,5 @@
 # lumen-config-cache
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/orumad/lumen-config-cache.svg?style=flat-square)](https://packagist.org/packages/orumad/lumen-config-cache) [![Total Downloads](https://img.shields.io/packagist/dt/orumad/lumen-config-cache.svg?style=flat-square)](https://packagist.org/packages/orumad/lumen-config-cache) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://packagist.org/packages/orumad/lumen-config-cache)
-
 Adds the Laravel artisan command `config:cache` to Lumen.
 
 Once installed you can type `php artisan lumen-config:cache` in your console to gets all your Lumen configuration files loaded in the cache, which will increase your Lumen app response times. 
